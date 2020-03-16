@@ -133,4 +133,33 @@ https://codepen.io/karenwinnielei/pen/zYGWojR?editors=1100
 	2. Add TL as a collaborator
 	3. Clone the repo
 	4. Create branch on fork 
-	5. 
+	5. Submit pull request with your fork as base-fork
+	6. Add TL (collaborator) as reviewer
+	7. TL will need to accept the merge request after reviewing the code
+
+Stretch Questions
+
+    1. What is the difference between an inline element and a block element?
+	"An inline element does not start on a new line and only takes up as much width as necessary. A block-level element always starts on a new line and takes up the full width available."
+	https://www.w3schools.com/html/html_blocks.asp
+
+    2. What happens when an element is positioned absolutely?
+	An element that is positioned absolutely will be "removed from the normal document flow and no space is created for the element in the page layout."
+	https://developer.mozilla.org/en-US/docs/Web/CSS/position
+
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+	max-width
+	
+    4. Name 3 elements that are display block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+	display block by default:
+		1. p
+		2. div
+		3. section
+	display inline by default:
+		1. span
+		2. a
+	display inline-block by default:
+		1. nav
+
+    5. In your own words, explain the box model. What is the fix for the box model?
+	The box model has the width and height of the content + padding + border and the padding and border get added outside the content area so the padding and border can sometimes get stretched outside the window. The fix for the box model is the border-box.
