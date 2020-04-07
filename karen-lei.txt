@@ -1,4 +1,4 @@
-https://codepen.io/karenwinnielei/pen/zYGWojR?editors=1100
+Completed: https://codepen.io/karenwinnielei/pen/JjYPjgv?editors=1100
 
 1. What is Semantic HTML? 
 	Semantic HTML is used to help organize different parts on a webpage
@@ -123,7 +123,7 @@ https://codepen.io/karenwinnielei/pen/zYGWojR?editors=1100
 	https://www.git-tower.com/learn/git/ebook/en/command-line/basics/what-is-version-control
 	
 35. How often should I commit to github?
-	Any time you want to save something.
+	Any time you want to save something or want to save a major change.
 
 36. What is the command we would use to push our repo up to github? 
 	git push
@@ -148,7 +148,7 @@ Stretch Questions
 	https://developer.mozilla.org/en-US/docs/Web/CSS/position
 
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
-	max-width
+	flexbox
 	
     4. Name 3 elements that are display block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
 	display block by default:
@@ -162,4 +162,4 @@ Stretch Questions
 		1. nav
 
     5. In your own words, explain the box model. What is the fix for the box model?
-	The box model has the width and height of the content + padding + border and the padding and border get added outside the content area so the padding and border can sometimes get stretched outside the window. The fix for the box model is the border-box.
+	The box model has the width and height of the content + padding + border + margin and the padding and border get added outside the content area so the padding and border can sometimes get stretched outside the window. The fix for the box model is the border-box.
