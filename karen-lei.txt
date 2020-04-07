@@ -1,4 +1,4 @@
-https://codepen.io/karenwinnielei/pen/zYGWojR?editors=1100
+Completed: https://codepen.io/karenwinnielei/pen/JjYPjgv?editors=1100
 
 1. What is Semantic HTML? 
 	Semantic HTML is used to help organize different parts on a webpage
